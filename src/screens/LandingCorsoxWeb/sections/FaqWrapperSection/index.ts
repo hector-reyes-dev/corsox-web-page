@@ -1,0 +1,1 @@
+export { FaqWrapperSection } from "./FaqWrapperSection";

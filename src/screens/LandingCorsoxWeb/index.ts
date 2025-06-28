@@ -1,0 +1,1 @@
+export { LandingCorsoxWeb } from "./LandingCorsoxWeb";
